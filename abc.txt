@@ -1,3 +1,8 @@
 HI Vamsi have you completed the tasks  
+<<<<<<< HEAD
 yes yet to complete the last task then send it
 send it immediately 
+=======
+yes yet to complete the last task then send it 
+yes there are here...1.1.1.1
+>>>>>>> 746785fbe0ee0c1eb129263bc3da06efca6f74a1
